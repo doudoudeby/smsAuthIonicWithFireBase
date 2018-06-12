@@ -1,0 +1,30 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+        VERIFICATION DE CODE
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  The world is your oyster.
+
+
+  <h5><p>
+    Mon numero est le {{ numero }}
+  </p></h5>
+
+  <ion-row>
+    <ion-list align-items-center>
+      <ion-item >
+        <ion-input type="number" placeholder=" exp: 444-444" [(ngModel)] = "code"  clearInput text-center></ion-input>
+      </ion-item>
+    </ion-list>
+
+  <button ion-button block icon-end (click)="PushPage()" >
+    Verification du numéro
+    <ion-icon name=""></ion-icon>
+  </button>
+  </ion-row>
+
+</ion-content>

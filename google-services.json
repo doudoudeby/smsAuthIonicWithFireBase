@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "616117325578",
+    "firebase_url": "https://sms-verification-25c23.firebaseio.com",
+    "project_id": "sms-verification-25c23",
+    "storage_bucket": "sms-verification-25c23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616117325578:android:1e0b588c3367fc13",
+        "android_client_info": {
+          "package_name": "com.smsKomvoy.ci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616117325578-kb41thf2qhpc8ikldjqc91k5jpe87hon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smsKomvoy.ci",
+            "certificate_hash": "2e6a6416dad9afaaf7e3fd3e7f3250fa65bdf5a4"
+          }
+        },
+        {
+          "client_id": "616117325578-q28mh09r6r3djjdugh3o355mhare9rd7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "616117325578-q28mh09r6r3djjdugh3o355mhare9rd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrNtprctviifKVJZNK69_vhFYtr_OAjvI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616117325578-q28mh09r6r3djjdugh3o355mhare9rd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
